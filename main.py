@@ -11,6 +11,9 @@ def main():
     ########################################
     """
 
+    list[numbers]
+    total = sum(numbers)
+    
     # total = sum(numbers)
     print(total)
 
